@@ -41,3 +41,26 @@ const lucas = {
 - 📫 How to reach me: [Linktree](https://linktr.ee/lucascorrea31)
 - ⚡ Fun fact: I love to play music and play hockey as a goalie
 
+
+---
+
+### >> Stacks
+- Backend:
+![Static Badge](https://img.shields.io/badge/php-a?style=plastic&logo=php&labelColor=lightgray&color=darkblue)
+![Static Badge](https://img.shields.io/badge/laravel-a?style=plastic&logo=laravel&labelColor=lightgray&color=red)
+![Static Badge](https://img.shields.io/badge/nodedotjs-a?style=plastic&logo=nodedotjs&labelColor=lightgray&color=darkgreen)
+![Static Badge](https://img.shields.io/badge/tsnode-a?style=plastic&logo=tsnode&labelColor=lightgray&color=blue)
+
+- Frontend:
+![Static Badge](https://img.shields.io/badge/vuedotjs-a?style=plastic&logo=vuedotjs&labelColor=lightgray)
+![Static Badge](https://img.shields.io/badge/typescript-a?style=plastic&logo=typescript&labelColor=lightgray&color=blue)
+![Static Badge](https://img.shields.io/badge/javascript-a?style=plastic&logo=javascript&labelColor=lightgray&color=yellow)
+![Static Badge](https://img.shields.io/badge/html5-a?style=plastic&logo=html5&labelColor=lightgray&color=red)
+![Static Badge](https://img.shields.io/badge/css3-a?style=plastic&logo=css3&labelColor=lightgray&color=blue)
+
+- Mobile:
+![Static Badge](https://img.shields.io/badge/flutter-a?style=plastic&logo=flutter&logoColor=blue&labelColor=lightgray&color=blue)
+
+- Enviroment:
+![Static Badge](https://img.shields.io/badge/apple-a?style=plastic&logo=apple&labelColor=lightgray&color=blue)
+![Static Badge](https://img.shields.io/badge/visualstudiocode-a?style=plastic&logo=visualstudiocode&logoColor=blue&labelColor=lightgray&color=blue)
