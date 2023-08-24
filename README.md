@@ -31,7 +31,8 @@ const lucas = {
 
 ---
 
-### >> Personal stuffs
+<details>
+  <summary>Personal stuffs</summary>
 
 - 🔭 I’m currently working on personal projects focused on my wife’s physiotherapists clinic
 - 🌱 I’m currently learning DevOps and Python
@@ -41,10 +42,16 @@ const lucas = {
 - 📫 How to reach me: [Linktree](https://linktr.ee/lucascorrea31)
 - ⚡ Fun fact: I love to play music and play hockey as a goalie
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e6a89eb128dce3cb6c4d59?variant=dark)](https://roadmap.sh)
+
+
+</details>
 
 ---
 
-### >> Stacks
+<details>
+  <summary>Stacks</summary>
+  
 - Backend:
 ![Static Badge](https://img.shields.io/badge/php-a?style=plastic&logo=php&labelColor=lightgray&color=darkblue)
 ![Static Badge](https://img.shields.io/badge/laravel-a?style=plastic&logo=laravel&labelColor=lightgray&color=red)
@@ -64,3 +71,5 @@ const lucas = {
 - Enviroment:
 ![Static Badge](https://img.shields.io/badge/apple-a?style=plastic&logo=apple&labelColor=lightgray&color=blue)
 ![Static Badge](https://img.shields.io/badge/visualstudiocode-a?style=plastic&logo=visualstudiocode&logoColor=blue&labelColor=lightgray&color=blue)
+
+</details>
