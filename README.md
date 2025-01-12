@@ -14,9 +14,9 @@
 
 ```javascript
 const lucas = {
-  code: [PHP, Javascript, Typescript, HTML, CSS, Flutter, Shell],
-  tools: [Laravel, Vue, Node, Tailwind, Jest, PHPUnit, Docker],
-  architecture: ["mvc", "clean-code", "event-driven", "design system pattern"],
+  code: [Typescript, Javascript, Java, HTML, CSS, PHP, Shell],
+  tools: [NodeJS, NestJS, Jest, Spring, JUnit, Laravel, PHPUnit, Vue, React, Tailwind, Docker],
+  architecture: ["mvc", "clean-code", "clean-archteture", "event-driven", "design system pattern"],
   softSkills: {
     leadership: true,
     courage: true,
