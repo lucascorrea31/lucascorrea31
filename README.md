@@ -1,6 +1,6 @@
 <h2> Hi there 👋, I'm Lucas Correa! <img src="https://media.giphy.com/media/Z968Qd9K6UBO4uj7Oc/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.criasol.com.br/">Criasol</a>
+<p><em>Software Enginner at <a href="https://www.outsera.com/">Outsera</a>
 </em></p>
 
 [![Twitter: LucasCorrea_31](https://img.shields.io/twitter/follow/lucascorrea_31?style=social)](https://twitter.com/lucascorrea_31)
@@ -53,20 +53,18 @@ const lucas = {
   <summary>Stacks</summary>
   
 - Backend:
+![Static Badge](https://img.shields.io/badge/node.js-a?style=plastic&logo=node.js&labelColor=lightgray&color=darkgreen)
+![Static Badge](https://img.shields.io/badge/tsnode-a?style=plastic&logo=tsnode&labelColor=lightgray&color=blue)
+![Static Badge](https://img.shields.io/badge/java-a?style=plastic&logo=spring&labelColor=white&color=darkgreen)
 ![Static Badge](https://img.shields.io/badge/php-a?style=plastic&logo=php&labelColor=lightgray&color=darkblue)
 ![Static Badge](https://img.shields.io/badge/laravel-a?style=plastic&logo=laravel&labelColor=lightgray&color=red)
-![Static Badge](https://img.shields.io/badge/nodedotjs-a?style=plastic&logo=nodedotjs&labelColor=lightgray&color=darkgreen)
-![Static Badge](https://img.shields.io/badge/tsnode-a?style=plastic&logo=tsnode&labelColor=lightgray&color=blue)
 
 - Frontend:
-![Static Badge](https://img.shields.io/badge/vuedotjs-a?style=plastic&logo=vuedotjs&labelColor=lightgray)
+![Static Badge](https://img.shields.io/badge/vue.js-a?style=plastic&logo=vuedotjs&labelColor=lightgray)
 ![Static Badge](https://img.shields.io/badge/typescript-a?style=plastic&logo=typescript&labelColor=lightgray&color=blue)
 ![Static Badge](https://img.shields.io/badge/javascript-a?style=plastic&logo=javascript&labelColor=lightgray&color=yellow)
 ![Static Badge](https://img.shields.io/badge/html5-a?style=plastic&logo=html5&labelColor=lightgray&color=red)
 ![Static Badge](https://img.shields.io/badge/css3-a?style=plastic&logo=css3&labelColor=lightgray&color=blue)
-
-- Mobile:
-![Static Badge](https://img.shields.io/badge/flutter-a?style=plastic&logo=flutter&logoColor=blue&labelColor=lightgray&color=blue)
 
 - Enviroment:
 ![Static Badge](https://img.shields.io/badge/apple-a?style=plastic&logo=apple&labelColor=lightgray&color=blue)
